@@ -2,10 +2,10 @@
 
 ## Docker Image
 
-[![](https://images.microbadger.com/badges/version/minimumbuilds/minimum_python3:v0.0.6.svg)](https://microbadger.com/images/minimumbuilds/minimum_python3:v0.0.6 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/minimumbuilds/minimum_python3:v0.0.6.svg)](https://microbadger.com/images/minimumbuilds/minimum_python3:v0.0.6 "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/commit/minimumbuilds/minimum_python3:v0.0.6.svg)](https://microbadger.com/images/minimumbuilds/minimum_python3:v0.0.6 "Get your own commit badge on microbadger.com") 
+[![](https://images.microbadger.com/badges/version/minimumbuilds/minimum_python3:v0.0.7.svg)](https://microbadger.com/images/minimumbuilds/minimum_python3:v0.0.7 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/minimumbuilds/minimum_python3:v0.0.7.svg)](https://microbadger.com/images/minimumbuilds/minimum_python3:v0.0.7 "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/commit/minimumbuilds/minimum_python3:v0.0.7.svg)](https://microbadger.com/images/minimumbuilds/minimum_python3:v0.0.7 "Get your own commit badge on microbadger.com") 
 
 ## Build
-[![Build Status](https://travis-ci.org/minimumbuilds/minimum_python3.svg?branch=v0.0.6)](https://travis-ci.org/minimumbuilds/minimum_python3)
+[![Build Status](https://travis-ci.org/minimumbuilds/minimum_python3.svg?branch=v0.0.7)](https://travis-ci.org/minimumbuilds/minimum_python3)
 
 ## Pull
 	docker pull minimumbuilds/minimum_python3
